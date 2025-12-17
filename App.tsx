@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect,useRef } from 'react';
 import Fireworks from './components/Fireworks';
 import ParticleText from './components/ParticleText';
 import SplashCursor from './components/SplashCursor';
