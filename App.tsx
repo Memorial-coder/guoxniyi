@@ -8,7 +8,7 @@ import { Play, Pause, SkipForward } from 'lucide-react';
 // The sequence of messages to display
 const MESSAGES = [
   "再见 2025",
-  "To 郭昕怡宝宝",
+  "To 郭昕怡",
   "祝宝宝",
   "身体健康",
   "新年快乐",
