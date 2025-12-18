@@ -17,14 +17,12 @@ const MESSAGES = [
 ];
 
 // Images for the trail effect
-const TRAIL_IMAGES = [
-  "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=300&q=80", // Sparkler
-  "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=300&q=80", // Heart
-  "https://images.unsplash.com/photo-1490750967868-58cb75063ed4?w=300&q=80", // Flowers
-  "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=300&q=80", // Bokeh
-  "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=300&q=80", // Sky
-  "https://images.unsplash.com/photo-1520052205864-92d242b3a76b?w=300&q=80", // Pink Texture
-];
+      const TRAIL_IMAGES = [
+        "https://img.xiumi.us/xmi/ua/5A6Qb/i/11c89dc77dd294697cc4a9b534e26eaf-sz_75986.jpg?x-oss-process=style/xmwebp",
+        "https://img.xiumi.us/xmi/ua/5A6Qb/i/81628dfc99fff37b79ceda8d20661f37-sz_164514.jpg?x-oss-process=style/xmwebp",
+        "https://img.xiumi.us/xmi/ua/5A6Qb/i/34c452a14bb1130ee4cc6729941a0576-sz_91823.jpg?x-oss-process=style/xmwebp",
+        
+      ];
 
 const MUSIC_URL = "https://lf9-music-east.douyinstatic.com/obj/ies-music-hj/7582538870085225253.mp3";
 
